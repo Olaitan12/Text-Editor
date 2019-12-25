@@ -1,4 +1,4 @@
-# text
+# Text - Editor
 
 A new Flutter project.
 
